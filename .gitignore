@@ -1,0 +1,4 @@
+# Agent customizations and skills
+.agents/
+skills/
+*.skill
