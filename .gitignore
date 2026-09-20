@@ -3,7 +3,5 @@
 skills/
 *.skill
 
-# AI rules and instructions
-.cursorrules
+# Workspace rules
 AGENTS.md
-AI_INSTRUCTIONS.md
