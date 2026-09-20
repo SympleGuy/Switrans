@@ -2,3 +2,8 @@
 .agents/
 skills/
 *.skill
+
+# AI rules and instructions
+.cursorrules
+AGENTS.md
+AI_INSTRUCTIONS.md
